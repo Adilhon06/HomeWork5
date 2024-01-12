@@ -10,7 +10,7 @@ public class Hero {
     }
     Hero(int health, int damage){
         this.health = health;
-        this.damage = damage;
+        this.damage = damage; //
     }
     public int getHealth() {
         return health;
